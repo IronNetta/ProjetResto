@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Great+Vibes&display=swap');
+/*Navbar*/
+nav.navbar
+{
+    background-color: black !important;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+nav a.navbar-brand
+{
+    font-family: 'Cookie', cursive;
+    font-size: 60px;
+    color: white;
+}
+nav a.navbar-brand:hover
+{
+    color: white;
+}
+nav div ul li a
+{
+    color: white !important;
+    font-size: 30px !important;
+    text-align: center;
+    
+}
+nav div ul li a:hover
+{
+    color: black !important;
+    background-color: white;
+    border-radius: 5px;
+}
+.navbar-toggler-icon
+{
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+/*Modal*/
+  #BookingModal .modal-header 
+  {
+    border-bottom: 0;
+    position: relative;
+    padding: 26px 32px 0 32px;
+  }
+  
+  #BookingModal .modal-body 
+  {
+    padding: 38px 32px;
+  }
+  
+  #BookingModal .modal-footer 
+  {
+    border-top: 0;
+    padding: 0;
+  }
+  
+  .booking-form .form-control 
+  {
+    font-weight: var(--font-weight-normal);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-bottom: 25px;
+    transition: all 0.3s;
+  }
+  
+  .booking-form button[type="submit"] 
+  {
+    background: var(--dark-color);
+    border: 0;
+    font-weight: var(--font-weight-semibold);
+    color: var(--white-color);
+    text-transform: uppercase;
+    margin-bottom: 0;
+  }
+  /*Footer*/
+
+footer div a 
+{
+    font-size: 25px;
+    color: white !important;
+    text-decoration: none;
+
+}
