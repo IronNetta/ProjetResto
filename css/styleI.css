@@ -76,7 +76,7 @@ nav div ul li a:hover
 /*header*/
 @media only screen and (min-width: 992px) {
     header div#carouselExampleInterval img {
-      height: 500px;
+      height: 800px;
     }
   }
 
@@ -98,7 +98,7 @@ main div.card
 {
     padding: 30px;
     margin-top: 20px;
-    background: linear-gradient(-45deg, black, white);
+    background: linear-gradient(-45deg, grey, white);
     color: black;
 }
 /*Footer*/
