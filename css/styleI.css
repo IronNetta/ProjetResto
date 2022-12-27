@@ -85,6 +85,7 @@ nav div ul li a:hover
 main
 {
   background: linear-gradient(45deg, black, white);
+  overflow: hidden;
 }
 main div.row
 {
