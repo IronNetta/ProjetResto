@@ -72,6 +72,11 @@ nav div ul li a:hover
     text-transform: uppercase;
     margin-bottom: 0;
   }
+  /*main*/
+  main
+  {
+    background: linear-gradient(45deg, black, white);
+  }
   /*Footer*/
 
 footer div a 
