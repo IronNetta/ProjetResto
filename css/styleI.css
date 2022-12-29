@@ -76,7 +76,7 @@ nav div ul li a:hover
 /*header*/
 @media only screen and (min-width: 992px) {
   header div#carouselExampleInterval img {
-    height: 800px;
+    height: 600px;
   }
 }
   

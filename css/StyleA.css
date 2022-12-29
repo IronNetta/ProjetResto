@@ -76,6 +76,7 @@ nav div ul li a:hover
   main
   {
     background: linear-gradient(45deg, grey, white);
+    overflow: hidden;
   }
   main div.jumbotron
   {
